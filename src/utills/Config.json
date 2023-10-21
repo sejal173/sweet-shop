@@ -1,75 +1,64 @@
 {
-    "shopname" : "  Sweet 4 You",
-    "img":"cake-img ",
-    "description":"Welcome to our delightful sweet shop, a place where sweet dreams come true and sugar cravings find their perfect match. As you step inside, you'll be greeted by the enchanting aroma of confections and a world of colors and flavors that will transport you to a sugary wonderland .we take pride in offering an extensive array of sweet creations, carefully crafted to satisfy your cravings. Whether you're celebrating a special occasion, looking for a delightful gift, or simply seeking a sweet escape, our shop has something for everyone.",
-
-    "theme":{
-        "orangeColor" :"#ff8000",
-        "secondaryColor":"#3333ff"
+    "shopname": "  Sweet 4 You",
+    "img": "https://mirchi.com/os/cdn/content/images/Sweets_mobile_273039.jpg",
+    "description": "Welcome to our delightful sweet shop, a place where sweet dreams come true and sugar cravings find their perfect match. As you step inside, you'll be greeted by the enchanting aroma of confections and a world of colors and flavors that will transport you to a sugary wonderland .we take pride in offering an extensive array of sweet creations, carefully crafted to satisfy your cravings. Whether you're celebrating a special occasion, looking for a delightful gift, or simply seeking a sweet escape, our shop has something for everyone.",
+    
+    "theme": {
+        "orangeColor": "#ff8000",
+        "secondaryColor": " #ffc299"
     },
-    "Selection":[
-    {
 
-        "description" : "At [Sweet Shop Name], we take pride in offering an extensive array of sweet creations, carefully crafted to satisfy your cravings. Whether you're celebrating a special occasion, looking for a delightful gift, or simply seeking a sweet escape, our shop has something for everyone. Our offerings include:"
-    },
-    {
-        "Artisanal Chocolates" :  "Handcrafted from the finest cocoa, our chocolates are a pure indulgence. From rich truffles to silky pralines, every bite is a moment of sheer delight." 
-    },
-    {
-        "Traditional Sweets " : "We pay homage to timeless traditions with an array of traditional sweets. Try our gulab jamun, rasgulla, and more, lovingly prepared using age-old recipes."
-    },
-    {
-        "Candies and Gummies " :  "Let your inner child run wild as you explore our vast collection of candies and gummies in a rainbow of flavors and shapes."
-    }
-],
 
-    "services":[
-
+    "Selection": [
+       
         {
-            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ-XWGGaylP38Dn9B29Hu15zb8Av0z3HrySGXQKxk3MkVX8KXgVQcOkTVBIz0-SWuEwSE&usqp=CAU",
-            
-            "product-name" :"Butter Cake",
-            "description":"Butter cake is a classic and indulgent dessert that's loved for its rich, buttery flavor and moist, tender crumb.",
-            "price":"30$",
-
-            "Button" :"Buy Now"
+            "name" :"Artisanal Chocolates",
+            "description": "Handcrafted from the finest cocoa, our chocolates are a pure indulgence. From rich truffles to silky pralines, every bite is a moment of sheer delight.",
+            "price":3000,
+            " quality" :"Good"
         },
         {
-            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc9p1DIrCPQbx-IvbWBzzh0pWnVo8SAYvGHQ&usqp=CAU",
-            
-            "product-name" :"Rose and pistachio gulab jamun",
-            "description":"Rose and pistachio gulab jamun are small, round, and syrup-soaked sweet dumplings. They have a lovely golden-brown color on the outside.",
-            "price":"50$",
 
-            "Button" :"Buy Now"
+            "name" :"Traditional Sweets",
+            "description": "We pay homage to timeless traditions with an array of traditional sweets. Try our gulab jamun, rasgulla, and more, lovingly prepared using age-old recipes.",
+            "price":3000,
+            " quality" :"Good"
         },
         {
-            "img":"",
-            
-            "product-name" :"Butter Cake",
-            "description":"Butter cake is a classic and indulgent dessert that's loved for its rich, buttery flavor and moist, tender crumb.",
-            "price":"30$",
-
-            "Button" :"Buy Now"
-        },
-        {
-            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5lziCrHHDl8v32-EIBGWQxVypnv7e5MBoNw&usqp=CAU",
-            
-            "product-name" :"Custard Rasgulla ",
-            "description":"Custard Rasgulla is a delightful fusion dessert that combines the beloved Indian sweet, Rasgulla, with the creamy richness of custard.",
-            "price":"80$",
-
-            "Button" :"Buy Now"
-        },
-        {
-            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR54iCmvgqD9UMuGjR_ok8DHNUbbB41LYHqS36npx9TLZHSMWkHZl6vtaSEo78DclKjKs&usqp=CAU",
-            
-            "product-name" :"Milk Barfi  ",
-            "description":"Milk Barfi, also known as Milk Burfi, is a traditional Indian sweet that's loved for its simplicity and rich, milky flavor",
-            "price":"90$",
-
-            "Button" :"Buy Now"
+            "name" :"Candies and Gummies",
+            "description": "Let your inner child run wild as you explore our vast collection of candies and gummies in a rainbow of flavors and shapes.",
+            "price":4000,
+            " quality" :"Good"
         }
-
+    ],
+    "services": [
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ-XWGGaylP38Dn9B29Hu15zb8Av0z3HrySGXQKxk3MkVX8KXgVQcOkTVBIz0-SWuEwSE&usqp=CAU",
+            "product-name": "Butter Cake",
+            "description": "Butter cake is a classic and indulgent dessert that's loved for its rich, buttery flavor and moist, tender crumb.",
+            "price": "30$",
+            "Button": "Buy Now"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc9p1DIrCPQbx-IvbWBzzh0pWnVo8SAYvGHQ&usqp=CAU",
+            "product-name": "Rose and pistachio gulab jamun",
+            "description": "Rose and pistachio gulab jamun are small, round, and syrup-soaked sweet dumplings. They have a lovely golden-brown color on the outside.",
+            "price": "50$",
+            "Button": "Buy Now"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5lziCrHHDl8v32-EIBGWQxVypnv7e5MBoNw&usqp=CAU",
+            "product-name": "Custard Rasgulla ",
+            "description": "Custard Rasgulla is a delightful fusion dessert that combines the beloved Indian sweet, Rasgulla, with the creamy richness of custard.",
+            "price": "80$",
+            "Button": "Buy Now"
+        },
+        {
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR54iCmvgqD9UMuGjR_ok8DHNUbbB41LYHqS36npx9TLZHSMWkHZl6vtaSEo78DclKjKs&usqp=CAU",
+            "product-name": "Milk Barfi  ",
+            "description": "Milk Barfi, also known as Milk Burfi, is a traditional Indian sweet that's loved for its simplicity and rich, milky flavor",
+            "price": "90$",
+            "Button": "Buy Now"
+        }
     ]
 }
